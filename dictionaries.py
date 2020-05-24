@@ -8,3 +8,4 @@ print(prices_lookup)
 prices_lookup.keys(); #it returns all keys
 prices_lookup.values(); #it returns all values
 prices_lookup.items();
+print('test')
