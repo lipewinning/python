@@ -17,3 +17,4 @@ print(my_list2)
 list_letters = ['f', 'e', 'a', 'w', 'i']
 list_letters.sort()
 print(list_letters)
+print(list_letters.reverse())
